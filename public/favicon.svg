@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#0B1020"/>
+  <rect x="1" y="1" width="46" height="46" rx="11" stroke="#334155" stroke-width="1.5"/>
+  <!-- Phone outline -->
+  <rect x="11" y="8" width="26" height="32" rx="4" stroke="#6366F1" stroke-width="2" fill="#151D2F"/>
+  <!-- Screen speaker bar -->
+  <line x1="21" y1="12" x2="27" y2="12" stroke="#64748B" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- ERP Chart / Grid on Phone Screen -->
+  <rect x="15" y="16" width="8" height="5" rx="1" fill="#38BDF8"/>
+  <rect x="25" y="16" width="8" height="5" rx="1" fill="#6366F1"/>
+  <!-- Bar chart bars -->
+  <rect x="15" y="27" width="4" height="7" rx="0.8" fill="#38BDF8"/>
+  <rect x="21" y="24" width="4" height="10" rx="0.8" fill="#6366F1"/>
+  <rect x="27" y="22" width="4" height="12" rx="0.8" fill="#34D399"/>
+  <!-- Subtle home pill -->
+  <line x1="21" y1="37" x2="27" y2="37" stroke="#475569" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

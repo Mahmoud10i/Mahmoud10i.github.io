@@ -1,0 +1,6 @@
+{
+  "name": "Phone Manager Pro",
+  "description": "Official website for Phone Manager Pro, an offline-first Windows desktop ERP for mobile phone shops and electronics retailers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
